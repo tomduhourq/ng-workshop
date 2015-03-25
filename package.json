@@ -1,0 +1,19 @@
+{
+  "name": "jsApp",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Luis Farzati <lfarzati@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "connect-modrewrite": "~0.7.11",
+    "tiny-lr": "~0.1.5",
+    "gulp-karma": "0.0.4",
+    "gulp-livereload": "~3.8.0",
+    "gulp": "~3.8.11",
+    "connect": "~3.3.5",
+    "karma-phantomjs-launcher": "~0.1.4",
+    "karma": "~0.12.31",
+    "karma-jasmine": "~0.3.5",
+    "jasmine-core": "~2.2.0"
+  }
+}
