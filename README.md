@@ -1,2 +1,2 @@
 # ng-workshop
-Following Nardoz ngworkshop
+Following [Nardoz ngworkshop](https://github.com/Nardoz/ngworkshop)
